@@ -1,5 +1,5 @@
 <h2><span style="font-size: 24pt;"><strong>Welcome to your Flatiron School Homeroom Course!</strong></span></h2>
-<p><strong></strong><span style="font-size: 12pt;">We're excited to get started! This page will serve as your Home page throughout the course, and will always house your weekly assignments and program calendar. Be sure to check in here early and often. Please review all the content on this Home page and complete each item in the checklist below <span style="text-decoration: underline;"><em>ahead of your first day</em></span>. Let's dive in:&nbsp;</span></p>
+<p><strong></strong><span style="font-size: 12pt;">We're excited to get started! This page will serve as your homepage throughout the course, and will always house upcoming assignments and your program calendar. Be sure to check in here early and often. Please review all the content on this Home page and complete each item in the checklist below <span style="text-decoration: underline;"><em>ahead of your first day</em></span>. Let's dive in:&nbsp;</span></p>
 <p><span style="font-size: 18pt;"><strong><span style="font-size: 18pt;">🏁 Setup Checklist<br /></span></strong></span><strong></strong><em><span style="font-size: 12pt;">[*Note - this section would turn into a "This Week" heading after day 1]</span></em></p>
 <ol>
 <li><span style="font-size: 12pt;">Set up your tech:&nbsp;<br /></span>
