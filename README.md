@@ -16,11 +16,6 @@
 <li>Click on the &ldquo;Modules&rdquo; tab on the left-side menu bar within this course (which is your Homeroom course). Select the first lesson in the first topic to start working, and use the &ldquo;Next&rdquo; button on the bottom of each lesson to move through the material.&nbsp;<strong>Review all lessons in all topics of the Homeroom Course prior to your first day.</strong></li>
 </ul>
 </li>
-<li>Block your Calendar:
-<ul style="list-style-type: circle;">
-<li><strong>Mark study groups on your calendar. </strong>Your cohort will have two study groups per week in the evening (our course is organized by the Eastern time zone). The weekly times for study groups will be determined as a group in the first week. While study groups will be recorded and made accessible afterward, we highly recommend you attend in real time to get the most out of the experience. The cohort Calendar below will show you a schedule of study groups for the cohort and other important dates (such as portfolio project due dates).</li>
-</ul>
-</li>
 </ol>
 <p>&nbsp;</p>
 <h3><span style="font-size: 18pt;"><strong>💡Tips for success</strong></span></h3>
@@ -31,7 +26,7 @@
 <p><strong>📣 Speak up in Slack</strong><span style="font-weight: 400;"> </span><strong><br /></strong><span style="font-weight: 400;">It can feel lonely studying online, so don&rsquo;t do it alone. Join us in Slack as soon as you&rsquo;re available on your first day. The instructional team will be popping in and out of the Slack channel starting 9am ET on Monday morning when the program kicks off, so if you have any questions, drop into Slack and let us know!</span></p>
 <hr />
 <h3><span style="font-size: 18pt;"><strong>📅 Program Calendar<br /></strong></span><span style="font-size: 10pt;"><em>We recommend that you click the "+ Google Calendar" button in the lower right corner to integrate this calendar with other calendars you use.</em></span></h3>
-<p><iframe style="border-width: 0;" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=Y19oY25oaGtkbWZmNmt0cGk0dTkzYmJiNnYzc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23039BE5&amp;showPrint=0&amp;showTz=1&amp;showTitle=0&amp;showDate=1&amp;mode=AGENDA" width="800" height="600" data-mce-fragment="1"></iframe></p>
+<p><iframe style="border-width: 0;" src="" width="800" height="600" data-mce-fragment="1"></iframe></p>
 <p>&nbsp;</p>
 
 <!-- <h3><span style="font-weight: 400;"><strong><span style="font-size: 18pt;">🔗 Quick Links</span></strong></span></h3> -->
