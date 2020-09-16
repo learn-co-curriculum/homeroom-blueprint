@@ -33,43 +33,6 @@
 <h3><span style="font-size: 18pt;"><strong>📅 Program Calendar<br /></strong></span><span style="font-size: 10pt;"><em>We recommend that you click the "+ Google Calendar" button in the lower right corner to integrate this calendar with other calendars you use.</em></span></h3>
 <p><iframe style="border-width: 0;" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=Y19oY25oaGtkbWZmNmt0cGk0dTkzYmJiNnYzc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23039BE5&amp;showPrint=0&amp;showTz=1&amp;showTitle=0&amp;showDate=1&amp;mode=AGENDA" width="800" height="600" data-mce-fragment="1"></iframe></p>
 <p>&nbsp;</p>
-<h3><span style="font-weight: 400;"><strong><span style="font-size: 18pt;">🍎 Your Instructional Support Team</span></strong><br /><strong></strong></span></h3>
-<table style="border-collapse: collapse; width: 100%; margin-left: auto; margin-right: auto;" cellspacing="10" cellpadding="15">
-<tbody>
-<tr>
-<td style="width: 25%; text-align: center;"><img src="https://ca.slack-edge.com/T02MD9XTF-UH21NS970-6a7ec63a23fb-512" alt="Photo of Greg Damico" width="200" height="200" /></td>
-<td style="width: 25%;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://ca.slack-edge.com/T02MD9XTF-UM04L3Q1Z-533d704f472f-512" alt="Photo of Max Barry" width="200" height="200" /></td>
-<td style="width: 25%; text-align: center;"><img src="https://ca.slack-edge.com/T02MD9XTF-UFQDA2NFN-777c04ff81a9-512" alt="Photo of Erin Hoffman" width="200" height="200" /></td>
-<td style="width: 25%; text-align: center;"><img src="https://ca.slack-edge.com/T02MD9XTF-UT2G4DMD2-b9eca47390c1-512" alt="Photo of Jo&eacute;l Collins" width="200" height="200" /></td>
-</tr>
-<tr>
-<td style="width: 25%; text-align: center;">
-<p><strong>Greg Damico</strong></p>
-<p>Lead Instructor</p>
-<p>(he/him)</p>
-</td>
-<td style="width: 25%; text-align: center;">
-<p><strong>Max Barry</strong></p>
-<p>Lead Instructor</p>
-<p>(he/him)</p>
-</td>
-<td style="width: 25%; text-align: center;">
-<p><strong>Erin Hoffman</strong></p>
-<p>Data Science Coach</p>
-<p>(she/her)</p>
-</td>
-<td style="width: 25%; text-align: center;">
-<p><strong>Jo&eacute;l Collins</strong></p>
-<p>Data Science Coach</p>
-<p>(they/them)</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<h3><span style="font-weight: 400;"><strong><span style="font-size: 18pt;">🔗 Quick Links</span></strong></span></h3>
-<ul>
-<li>&lt;Key Resources&gt;&nbsp;</li>
-<li>&lt;Key Resources&gt;&nbsp;</li>
-<li>&lt;Key Resources&gt;&nbsp;</li>
-</ul>
+
+<!-- <h3><span style="font-weight: 400;"><strong><span style="font-size: 18pt;">🔗 Quick Links</span></strong></span></h3> -->
+
